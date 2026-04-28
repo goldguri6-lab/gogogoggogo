@@ -1,0 +1,13 @@
+{
+  "name": "black-flash-arena",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser FPS action game with server-backed save support.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

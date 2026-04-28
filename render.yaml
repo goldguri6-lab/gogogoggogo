@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: black-flash-arena
+    runtime: node
+    plan: free
+    buildCommand: ""
+    startCommand: "npm start"
